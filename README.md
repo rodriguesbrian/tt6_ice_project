@@ -155,7 +155,7 @@ indicating that market volume and user evaluation are independent dimensions.
 
 - `notebook/analysis.ipynb` — full analysis pipeline (preprocessing → EDA → hypothesis tests → conclusions)
 - `data/games_active.csv` — filtered dataset used for regional analysis and dashboard
-- `dashboard/ice_games.twbx` — Tableau executive dashboard
+- `outputs/tableau_link.txt` — Tableau executive dashboard
 
 ---
 
